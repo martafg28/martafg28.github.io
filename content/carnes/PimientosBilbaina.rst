@@ -4,7 +4,7 @@ PIMIENTOS RELLENOS A LA BILBAINA
 :date: 2013/04/07
 :autor: Marta Fernandez Gaston
 :tag: carnes
-
+Many times I come home at the time of eating just in time. I have almost no time to cook over preprar something quick and easy and above must be good. I have to make dishes that ingeniarmelas good and prepare quickly. pasta is a good choice. We all love and ready in no time. Also, the good thing about it is that you can prepare in many ways and is always buenisima.
 
 
 
@@ -15,6 +15,7 @@ Lo suelo preparar cuando tengo alguna cena con amigos o familiares y siempre que
 
 
 **Ingredientes (para 4 personas):** 
+
 
 *Para el relleno:*
 
@@ -30,6 +31,7 @@ Lo suelo preparar cuando tengo alguna cena con amigos o familiares y siempre que
 	* sal y pimienta.
 
 *Para la salsa:*
+
 	* 1 cebolla.
 	* 1 zanahoria.
 	* 1 cucharada de puré de tomate.
